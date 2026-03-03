@@ -1,0 +1,5 @@
+{
+  "name": "FMCG Production Re-Planner",
+  "description": "Dynamic production schedule re-planner for FMCG factories with urgent SKU insertion.",
+  "requestFramePermissions": []
+}
